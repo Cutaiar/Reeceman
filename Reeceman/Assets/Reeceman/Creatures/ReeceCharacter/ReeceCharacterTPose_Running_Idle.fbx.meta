@@ -1,0 +1,545 @@
+fileFormatVersion: 2
+guid: 906798b7a596171498346de1a58f326b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: eyes
+    100002: eyes.001
+    100004: Idle
+    100006: Mesh
+    100008: Mesh.001
+    100010: mixamorig:Head
+    100012: mixamorig:Head 1
+    100014: mixamorig:HeadTop_End
+    100016: mixamorig:HeadTop_End 1
+    100018: mixamorig:HeadTop_End_end
+    100020: mixamorig:HeadTop_End_end 1
+    100022: mixamorig:HeadTop_End_end_end
+    100024: mixamorig:Hips
+    100026: mixamorig:Hips 1
+    100028: mixamorig:LeftArm
+    100030: mixamorig:LeftArm 1
+    100032: mixamorig:LeftFoot
+    100034: mixamorig:LeftFoot 1
+    100036: mixamorig:LeftForeArm
+    100038: mixamorig:LeftForeArm 1
+    100040: mixamorig:LeftHand
+    100042: mixamorig:LeftHand 1
+    100044: mixamorig:LeftHandIndex1
+    100046: mixamorig:LeftHandIndex1 1
+    100048: mixamorig:LeftHandIndex2
+    100050: mixamorig:LeftHandIndex2 1
+    100052: mixamorig:LeftHandIndex3
+    100054: mixamorig:LeftHandIndex3 1
+    100056: mixamorig:LeftHandIndex4
+    100058: mixamorig:LeftHandIndex4 1
+    100060: mixamorig:LeftHandIndex4_end
+    100062: mixamorig:LeftHandIndex4_end 1
+    100064: mixamorig:LeftHandIndex4_end_end
+    100066: mixamorig:LeftHandMiddle1
+    100068: mixamorig:LeftHandMiddle1 1
+    100070: mixamorig:LeftHandMiddle2
+    100072: mixamorig:LeftHandMiddle2 1
+    100074: mixamorig:LeftHandMiddle3
+    100076: mixamorig:LeftHandMiddle3 1
+    100078: mixamorig:LeftHandMiddle4
+    100080: mixamorig:LeftHandMiddle4 1
+    100082: mixamorig:LeftHandMiddle4_end
+    100084: mixamorig:LeftHandMiddle4_end 1
+    100086: mixamorig:LeftHandMiddle4_end_end
+    100088: mixamorig:LeftHandPinky1
+    100090: mixamorig:LeftHandPinky1 1
+    100092: mixamorig:LeftHandPinky2
+    100094: mixamorig:LeftHandPinky2 1
+    100096: mixamorig:LeftHandPinky3
+    100098: mixamorig:LeftHandPinky3 1
+    100100: mixamorig:LeftHandPinky4
+    100102: mixamorig:LeftHandPinky4 1
+    100104: mixamorig:LeftHandPinky4_end
+    100106: mixamorig:LeftHandPinky4_end 1
+    100108: mixamorig:LeftHandPinky4_end_end
+    100110: mixamorig:LeftHandRing1
+    100112: mixamorig:LeftHandRing1 1
+    100114: mixamorig:LeftHandRing2
+    100116: mixamorig:LeftHandRing2 1
+    100118: mixamorig:LeftHandRing3
+    100120: mixamorig:LeftHandRing3 1
+    100122: mixamorig:LeftHandRing4
+    100124: mixamorig:LeftHandRing4 1
+    100126: mixamorig:LeftHandRing4_end
+    100128: mixamorig:LeftHandRing4_end 1
+    100130: mixamorig:LeftHandRing4_end_end
+    100132: mixamorig:LeftHandThumb1
+    100134: mixamorig:LeftHandThumb1 1
+    100136: mixamorig:LeftHandThumb2
+    100138: mixamorig:LeftHandThumb2 1
+    100140: mixamorig:LeftHandThumb3
+    100142: mixamorig:LeftHandThumb3 1
+    100144: mixamorig:LeftHandThumb4
+    100146: mixamorig:LeftHandThumb4 1
+    100148: mixamorig:LeftHandThumb4_end
+    100150: mixamorig:LeftHandThumb4_end 1
+    100152: mixamorig:LeftHandThumb4_end_end
+    100154: mixamorig:LeftLeg
+    100156: mixamorig:LeftLeg 1
+    100158: mixamorig:LeftShoulder
+    100160: mixamorig:LeftShoulder 1
+    100162: mixamorig:LeftToe_End
+    100164: mixamorig:LeftToe_End 1
+    100166: mixamorig:LeftToe_End_end
+    100168: mixamorig:LeftToe_End_end 1
+    100170: mixamorig:LeftToe_End_end_end
+    100172: mixamorig:LeftToeBase
+    100174: mixamorig:LeftToeBase 1
+    100176: mixamorig:LeftUpLeg
+    100178: mixamorig:LeftUpLeg 1
+    100180: mixamorig:Neck
+    100182: mixamorig:Neck 1
+    100184: mixamorig:RightArm
+    100186: mixamorig:RightArm 1
+    100188: mixamorig:RightFoot
+    100190: mixamorig:RightFoot 1
+    100192: mixamorig:RightForeArm
+    100194: mixamorig:RightForeArm 1
+    100196: mixamorig:RightHand
+    100198: mixamorig:RightHand 1
+    100200: mixamorig:RightHandIndex1
+    100202: mixamorig:RightHandIndex1 1
+    100204: mixamorig:RightHandIndex2
+    100206: mixamorig:RightHandIndex2 1
+    100208: mixamorig:RightHandIndex3
+    100210: mixamorig:RightHandIndex3 1
+    100212: mixamorig:RightHandIndex4
+    100214: mixamorig:RightHandIndex4 1
+    100216: mixamorig:RightHandIndex4_end
+    100218: mixamorig:RightHandIndex4_end 1
+    100220: mixamorig:RightHandIndex4_end_end
+    100222: mixamorig:RightHandMiddle1
+    100224: mixamorig:RightHandMiddle1 1
+    100226: mixamorig:RightHandMiddle2
+    100228: mixamorig:RightHandMiddle2 1
+    100230: mixamorig:RightHandMiddle3
+    100232: mixamorig:RightHandMiddle3 1
+    100234: mixamorig:RightHandMiddle4
+    100236: mixamorig:RightHandMiddle4 1
+    100238: mixamorig:RightHandMiddle4_end
+    100240: mixamorig:RightHandMiddle4_end 1
+    100242: mixamorig:RightHandMiddle4_end_end
+    100244: mixamorig:RightHandPinky1
+    100246: mixamorig:RightHandPinky1 1
+    100248: mixamorig:RightHandPinky2
+    100250: mixamorig:RightHandPinky2 1
+    100252: mixamorig:RightHandPinky3
+    100254: mixamorig:RightHandPinky3 1
+    100256: mixamorig:RightHandPinky4
+    100258: mixamorig:RightHandPinky4 1
+    100260: mixamorig:RightHandPinky4_end
+    100262: mixamorig:RightHandPinky4_end 1
+    100264: mixamorig:RightHandPinky4_end_end
+    100266: mixamorig:RightHandRing1
+    100268: mixamorig:RightHandRing1 1
+    100270: mixamorig:RightHandRing2
+    100272: mixamorig:RightHandRing2 1
+    100274: mixamorig:RightHandRing3
+    100276: mixamorig:RightHandRing3 1
+    100278: mixamorig:RightHandRing4
+    100280: mixamorig:RightHandRing4 1
+    100282: mixamorig:RightHandRing4_end
+    100284: mixamorig:RightHandRing4_end 1
+    100286: mixamorig:RightHandRing4_end_end
+    100288: mixamorig:RightHandThumb1
+    100290: mixamorig:RightHandThumb1 1
+    100292: mixamorig:RightHandThumb2
+    100294: mixamorig:RightHandThumb2 1
+    100296: mixamorig:RightHandThumb3
+    100298: mixamorig:RightHandThumb3 1
+    100300: mixamorig:RightHandThumb4
+    100302: mixamorig:RightHandThumb4 1
+    100304: mixamorig:RightHandThumb4_end
+    100306: mixamorig:RightHandThumb4_end 1
+    100308: mixamorig:RightHandThumb4_end_end
+    100310: mixamorig:RightLeg
+    100312: mixamorig:RightLeg 1
+    100314: mixamorig:RightShoulder
+    100316: mixamorig:RightShoulder 1
+    100318: mixamorig:RightToe_End
+    100320: mixamorig:RightToe_End 1
+    100322: mixamorig:RightToe_End_end
+    100324: mixamorig:RightToe_End_end 1
+    100326: mixamorig:RightToe_End_end_end
+    100328: mixamorig:RightToeBase
+    100330: mixamorig:RightToeBase 1
+    100332: mixamorig:RightUpLeg
+    100334: mixamorig:RightUpLeg 1
+    100336: mixamorig:Spine
+    100338: mixamorig:Spine 1
+    100340: mixamorig:Spine1
+    100342: mixamorig:Spine1 1
+    100344: mixamorig:Spine2
+    100346: mixamorig:Spine2 1
+    100348: ReeceCharacter
+    100350: //RootNode
+    400000: eyes
+    400002: eyes.001
+    400004: Idle
+    400006: Mesh
+    400008: Mesh.001
+    400010: mixamorig:Head
+    400012: mixamorig:Head 1
+    400014: mixamorig:HeadTop_End
+    400016: mixamorig:HeadTop_End 1
+    400018: mixamorig:HeadTop_End_end
+    400020: mixamorig:HeadTop_End_end 1
+    400022: mixamorig:HeadTop_End_end_end
+    400024: mixamorig:Hips
+    400026: mixamorig:Hips 1
+    400028: mixamorig:LeftArm
+    400030: mixamorig:LeftArm 1
+    400032: mixamorig:LeftFoot
+    400034: mixamorig:LeftFoot 1
+    400036: mixamorig:LeftForeArm
+    400038: mixamorig:LeftForeArm 1
+    400040: mixamorig:LeftHand
+    400042: mixamorig:LeftHand 1
+    400044: mixamorig:LeftHandIndex1
+    400046: mixamorig:LeftHandIndex1 1
+    400048: mixamorig:LeftHandIndex2
+    400050: mixamorig:LeftHandIndex2 1
+    400052: mixamorig:LeftHandIndex3
+    400054: mixamorig:LeftHandIndex3 1
+    400056: mixamorig:LeftHandIndex4
+    400058: mixamorig:LeftHandIndex4 1
+    400060: mixamorig:LeftHandIndex4_end
+    400062: mixamorig:LeftHandIndex4_end 1
+    400064: mixamorig:LeftHandIndex4_end_end
+    400066: mixamorig:LeftHandMiddle1
+    400068: mixamorig:LeftHandMiddle1 1
+    400070: mixamorig:LeftHandMiddle2
+    400072: mixamorig:LeftHandMiddle2 1
+    400074: mixamorig:LeftHandMiddle3
+    400076: mixamorig:LeftHandMiddle3 1
+    400078: mixamorig:LeftHandMiddle4
+    400080: mixamorig:LeftHandMiddle4 1
+    400082: mixamorig:LeftHandMiddle4_end
+    400084: mixamorig:LeftHandMiddle4_end 1
+    400086: mixamorig:LeftHandMiddle4_end_end
+    400088: mixamorig:LeftHandPinky1
+    400090: mixamorig:LeftHandPinky1 1
+    400092: mixamorig:LeftHandPinky2
+    400094: mixamorig:LeftHandPinky2 1
+    400096: mixamorig:LeftHandPinky3
+    400098: mixamorig:LeftHandPinky3 1
+    400100: mixamorig:LeftHandPinky4
+    400102: mixamorig:LeftHandPinky4 1
+    400104: mixamorig:LeftHandPinky4_end
+    400106: mixamorig:LeftHandPinky4_end 1
+    400108: mixamorig:LeftHandPinky4_end_end
+    400110: mixamorig:LeftHandRing1
+    400112: mixamorig:LeftHandRing1 1
+    400114: mixamorig:LeftHandRing2
+    400116: mixamorig:LeftHandRing2 1
+    400118: mixamorig:LeftHandRing3
+    400120: mixamorig:LeftHandRing3 1
+    400122: mixamorig:LeftHandRing4
+    400124: mixamorig:LeftHandRing4 1
+    400126: mixamorig:LeftHandRing4_end
+    400128: mixamorig:LeftHandRing4_end 1
+    400130: mixamorig:LeftHandRing4_end_end
+    400132: mixamorig:LeftHandThumb1
+    400134: mixamorig:LeftHandThumb1 1
+    400136: mixamorig:LeftHandThumb2
+    400138: mixamorig:LeftHandThumb2 1
+    400140: mixamorig:LeftHandThumb3
+    400142: mixamorig:LeftHandThumb3 1
+    400144: mixamorig:LeftHandThumb4
+    400146: mixamorig:LeftHandThumb4 1
+    400148: mixamorig:LeftHandThumb4_end
+    400150: mixamorig:LeftHandThumb4_end 1
+    400152: mixamorig:LeftHandThumb4_end_end
+    400154: mixamorig:LeftLeg
+    400156: mixamorig:LeftLeg 1
+    400158: mixamorig:LeftShoulder
+    400160: mixamorig:LeftShoulder 1
+    400162: mixamorig:LeftToe_End
+    400164: mixamorig:LeftToe_End 1
+    400166: mixamorig:LeftToe_End_end
+    400168: mixamorig:LeftToe_End_end 1
+    400170: mixamorig:LeftToe_End_end_end
+    400172: mixamorig:LeftToeBase
+    400174: mixamorig:LeftToeBase 1
+    400176: mixamorig:LeftUpLeg
+    400178: mixamorig:LeftUpLeg 1
+    400180: mixamorig:Neck
+    400182: mixamorig:Neck 1
+    400184: mixamorig:RightArm
+    400186: mixamorig:RightArm 1
+    400188: mixamorig:RightFoot
+    400190: mixamorig:RightFoot 1
+    400192: mixamorig:RightForeArm
+    400194: mixamorig:RightForeArm 1
+    400196: mixamorig:RightHand
+    400198: mixamorig:RightHand 1
+    400200: mixamorig:RightHandIndex1
+    400202: mixamorig:RightHandIndex1 1
+    400204: mixamorig:RightHandIndex2
+    400206: mixamorig:RightHandIndex2 1
+    400208: mixamorig:RightHandIndex3
+    400210: mixamorig:RightHandIndex3 1
+    400212: mixamorig:RightHandIndex4
+    400214: mixamorig:RightHandIndex4 1
+    400216: mixamorig:RightHandIndex4_end
+    400218: mixamorig:RightHandIndex4_end 1
+    400220: mixamorig:RightHandIndex4_end_end
+    400222: mixamorig:RightHandMiddle1
+    400224: mixamorig:RightHandMiddle1 1
+    400226: mixamorig:RightHandMiddle2
+    400228: mixamorig:RightHandMiddle2 1
+    400230: mixamorig:RightHandMiddle3
+    400232: mixamorig:RightHandMiddle3 1
+    400234: mixamorig:RightHandMiddle4
+    400236: mixamorig:RightHandMiddle4 1
+    400238: mixamorig:RightHandMiddle4_end
+    400240: mixamorig:RightHandMiddle4_end 1
+    400242: mixamorig:RightHandMiddle4_end_end
+    400244: mixamorig:RightHandPinky1
+    400246: mixamorig:RightHandPinky1 1
+    400248: mixamorig:RightHandPinky2
+    400250: mixamorig:RightHandPinky2 1
+    400252: mixamorig:RightHandPinky3
+    400254: mixamorig:RightHandPinky3 1
+    400256: mixamorig:RightHandPinky4
+    400258: mixamorig:RightHandPinky4 1
+    400260: mixamorig:RightHandPinky4_end
+    400262: mixamorig:RightHandPinky4_end 1
+    400264: mixamorig:RightHandPinky4_end_end
+    400266: mixamorig:RightHandRing1
+    400268: mixamorig:RightHandRing1 1
+    400270: mixamorig:RightHandRing2
+    400272: mixamorig:RightHandRing2 1
+    400274: mixamorig:RightHandRing3
+    400276: mixamorig:RightHandRing3 1
+    400278: mixamorig:RightHandRing4
+    400280: mixamorig:RightHandRing4 1
+    400282: mixamorig:RightHandRing4_end
+    400284: mixamorig:RightHandRing4_end 1
+    400286: mixamorig:RightHandRing4_end_end
+    400288: mixamorig:RightHandThumb1
+    400290: mixamorig:RightHandThumb1 1
+    400292: mixamorig:RightHandThumb2
+    400294: mixamorig:RightHandThumb2 1
+    400296: mixamorig:RightHandThumb3
+    400298: mixamorig:RightHandThumb3 1
+    400300: mixamorig:RightHandThumb4
+    400302: mixamorig:RightHandThumb4 1
+    400304: mixamorig:RightHandThumb4_end
+    400306: mixamorig:RightHandThumb4_end 1
+    400308: mixamorig:RightHandThumb4_end_end
+    400310: mixamorig:RightLeg
+    400312: mixamorig:RightLeg 1
+    400314: mixamorig:RightShoulder
+    400316: mixamorig:RightShoulder 1
+    400318: mixamorig:RightToe_End
+    400320: mixamorig:RightToe_End 1
+    400322: mixamorig:RightToe_End_end
+    400324: mixamorig:RightToe_End_end 1
+    400326: mixamorig:RightToe_End_end_end
+    400328: mixamorig:RightToeBase
+    400330: mixamorig:RightToeBase 1
+    400332: mixamorig:RightUpLeg
+    400334: mixamorig:RightUpLeg 1
+    400336: mixamorig:Spine
+    400338: mixamorig:Spine 1
+    400340: mixamorig:Spine1
+    400342: mixamorig:Spine1 1
+    400344: mixamorig:Spine2
+    400346: mixamorig:Spine2 1
+    400348: ReeceCharacter
+    400350: //RootNode
+    2100000: high-poly
+    2100002: reecemakehuman1
+    2100004: high-poly.002
+    2100006: reecemakehuman1.002
+    4300000: eyes
+    4300002: Mesh
+    4300004: eyes.001
+    4300006: Mesh.001
+    7400000: ReeceCharacter|Idle
+    7400002: ReeceCharacter|Running
+    7400004: Idle|Idle
+    7400006: Idle|Running
+    7400008: ReeceCharacter|TPose
+    9500000: //RootNode
+    13700000: eyes
+    13700002: eyes.001
+    13700004: Mesh
+    13700006: Mesh.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ReeceCharacter|TPose
+      takeName: ReeceCharacter|TPose
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReeceCharacter|Idle
+      takeName: ReeceCharacter|Idle
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReeceCharacter|Running
+      takeName: ReeceCharacter|Running
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 81e0ab00d0e12bf419c8f9c0c376ffdd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: backLeg1.L
+    100004: backLeg1.R
+    100006: BackLeg2.001.L
+    100008: BackLeg2.001.L_end
+    100010: BackLeg2.001.R
+    100012: BackLeg2.001.R_end
+    100014: BackLeg2.L
+    100016: BackLeg2.L_end
+    100018: BackLeg2.R
+    100020: BackLeg2.R_end
+    100022: BackLegIK.L
+    100024: BackLegIK.R
+    100026: eye.L
+    100028: eye.R
+    100030: FrontLeg1.L
+    100032: FrontLeg1.R
+    100034: FrontLeg2.L
+    100036: FrontLeg2.R
+    100038: FrontLeg3.001.L
+    100040: FrontLeg3.001.L_end
+    100042: FrontLeg3.001.R
+    100044: FrontLeg3.001.R_end
+    100046: FrontLeg3.L
+    100048: FrontLeg3.L_end
+    100050: FrontLeg3.R
+    100052: FrontLeg3.R_end
+    100054: FrontLegIK.L
+    100056: FrontLegIK.R
+    100058: HeadIK
+    100060: hip
+    100062: MidLeg1.L
+    100064: MidLeg1.R
+    100066: MidLeg2.L
+    100068: MidLeg2.R
+    100070: MidLeg3.001.L
+    100072: MidLeg3.001.L_end
+    100074: MidLeg3.001.R
+    100076: MidLeg3.001.R_end
+    100078: MidLeg3.L
+    100080: MidLeg3.L_end
+    100082: MidLeg3.R
+    100084: MidLeg3.R_end
+    100086: MidLegIK.L
+    100088: MidLegIK.R
+    100090: //RootNode
+    100092: Reecling
+    100094: spine1
+    100096: spine2
+    100098: spine3
+    100100: spine4
+    100102: spine4_end
+    100104: spine5
+    100106: spine5_end
+    100108: tail1
+    100110: tail2
+    100112: tail3
+    100114: tail3_end
+    100116: TailControl
+    400000: Armature
+    400002: backLeg1.L
+    400004: backLeg1.R
+    400006: BackLeg2.001.L
+    400008: BackLeg2.001.L_end
+    400010: BackLeg2.001.R
+    400012: BackLeg2.001.R_end
+    400014: BackLeg2.L
+    400016: BackLeg2.L_end
+    400018: BackLeg2.R
+    400020: BackLeg2.R_end
+    400022: BackLegIK.L
+    400024: BackLegIK.R
+    400026: eye.L
+    400028: eye.R
+    400030: FrontLeg1.L
+    400032: FrontLeg1.R
+    400034: FrontLeg2.L
+    400036: FrontLeg2.R
+    400038: FrontLeg3.001.L
+    400040: FrontLeg3.001.L_end
+    400042: FrontLeg3.001.R
+    400044: FrontLeg3.001.R_end
+    400046: FrontLeg3.L
+    400048: FrontLeg3.L_end
+    400050: FrontLeg3.R
+    400052: FrontLeg3.R_end
+    400054: FrontLegIK.L
+    400056: FrontLegIK.R
+    400058: HeadIK
+    400060: hip
+    400062: MidLeg1.L
+    400064: MidLeg1.R
+    400066: MidLeg2.L
+    400068: MidLeg2.R
+    400070: MidLeg3.001.L
+    400072: MidLeg3.001.L_end
+    400074: MidLeg3.001.R
+    400076: MidLeg3.001.R_end
+    400078: MidLeg3.L
+    400080: MidLeg3.L_end
+    400082: MidLeg3.R
+    400084: MidLeg3.R_end
+    400086: MidLegIK.L
+    400088: MidLegIK.R
+    400090: //RootNode
+    400092: Reecling
+    400094: spine1
+    400096: spine2
+    400098: spine3
+    400100: spine4
+    400102: spine4_end
+    400104: spine5
+    400106: spine5_end
+    400108: tail1
+    400110: tail2
+    400112: tail3
+    400114: tail3_end
+    400116: TailControl
+    2100000: HeadMat
+    2100002: blue
+    2300000: eye.L
+    2300002: eye.R
+    3300000: eye.L
+    3300002: eye.R
+    4300000: Reecling
+    4300002: eye.L
+    4300004: eye.R
+    7400000: Armature|Walk Cycle
+    9500000: //RootNode
+    13700000: Reecling
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Walk Cycle
+      takeName: Armature|Walk Cycle
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
